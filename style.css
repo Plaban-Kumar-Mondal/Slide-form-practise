@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+input{
+    text-decoration: none;
+}
+#message{
+    text-align: center;
+}
